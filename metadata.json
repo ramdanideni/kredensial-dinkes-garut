@@ -1,0 +1,6 @@
+{
+  "name": "Portal Kredensialing SDMK Garut",
+  "description": "Sistem Terpadu Kredensialing dan Rekredensialing Tenaga Kesehatan Puskesmas Dinas Kesehatan Kabupaten Garut",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
